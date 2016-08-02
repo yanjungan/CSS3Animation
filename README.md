@@ -8,3 +8,4 @@
 * 4 animation-iteration-count: n|infinite;表示动画播放的次数，n次|无限次
 
 #效果图：
+http://htmlpreview.github.io/?https://github.com/yanjungan/CSS3Animation/blob/master/%E5%B9%BB%E7%81%AF%E7%89%87.html
